@@ -7,7 +7,7 @@ import retrofit.http.GET;
 import retrofit.http.Query;
 
 /**
- * Created by Joppa on 2015-10-20.
+ * Created by Jesper on 2015-10-20.
  */
 public interface SoundCloudService {
 

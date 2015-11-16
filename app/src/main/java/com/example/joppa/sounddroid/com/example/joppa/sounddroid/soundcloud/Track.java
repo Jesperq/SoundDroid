@@ -6,7 +6,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 /**
- * Created by Joppa on 2015-10-20.
+ * Created by Jesper on 2015-10-20.
  */
 public class Track {
     @SerializedName("title")

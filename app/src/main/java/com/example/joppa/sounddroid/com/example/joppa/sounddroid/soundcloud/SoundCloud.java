@@ -3,7 +3,7 @@ package com.example.joppa.sounddroid.com.example.joppa.sounddroid.soundcloud;
 import retrofit.RestAdapter;
 
 /**
- * Created by Joppa on 2015-10-20.
+ * Created by Jesper on 2015-10-20.
  */
 public class SoundCloud {
     private static final String API_URL = "http://api.soundcloud.com";

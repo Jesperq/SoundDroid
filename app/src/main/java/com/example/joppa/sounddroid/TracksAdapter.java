@@ -17,7 +17,7 @@ import com.squareup.picasso.Picasso;
 import java.util.List;
 
 /**
- * Created by Joppa on 2015-10-21.
+ * Created by Jesper on 2015-10-21.
  */
 public class TracksAdapter extends RecyclerView.Adapter<TracksAdapter.ViewHolder>{
 
